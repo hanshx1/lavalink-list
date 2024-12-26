@@ -64,18 +64,18 @@
     },
     {
         "identifier": "Public Lavalink v3 NonSSL",
-        "host": "lava-v3.ajieblogs.eu.org",
-        "port": 80,
-        "password": "https://dsc.gg/ajidevserver",
+        "host": "codespaces-blank-psi-self.vercel.app",
+        "port": 8080,
+        "password": "",
         "secure": false,
         "restVersion": "v3",
         "authorId": "867303900884893727"
     },
     {
         "identifier": "Catfein ID",
-        "host": "lava.catfein.com",
-        "port": 4000,
-        "password": "catfein",
+        "host": "codespaces-blank-psi-self.vercel.app",
+        "port": 3000,
+        "password": "",
         "secure": false,
         "restVersion": "v4",
         "authorId": "885731228874051624"
